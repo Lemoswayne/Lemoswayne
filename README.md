@@ -10,7 +10,7 @@ Me chamo João Pedro Xavier Lemos, tenho 20 anos e moro em Governador Valadares.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nest,django,postgresql,git" alt="Tech Stack"/>
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,python,nest,next,nodejs,postgresql,git" alt="Tech Stack"/>
   </a>
 </p>
 
