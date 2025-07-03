@@ -4,14 +4,6 @@
   <i>Desenvolvedor Backend | Estudante de Sistemas da Informação | Entusiasta em Cybersegurança</i>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=3178C6"/>
-  <img src="https://img.shields.io/badge/Framework-NestJS-informational?style=flat&logo=nestjs&logoColor=white&color=E0234E"/>
-  <img src="https://img.shields.io/badge/Runtime-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=339933"/>
-  <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=4169E1"/>
-</p>
-
 ---
 
 ## 👨‍💻 Sobre mim
